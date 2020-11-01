@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1604217214 source:c:\users\hari\documents\codeblocks projects\games\minesweeper\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"MineSweeperGame.h"
+
+1604216562 c:\users\hari\documents\codeblocks projects\games\minesweeper\include\minesweepercore.h
+
+1604212380 source:c:\users\hari\documents\codeblocks projects\games\minesweeper\src\minesweepercore.cpp
+	"MineSweeperCore.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1604216492 source:c:\users\hari\documents\codeblocks projects\games\minesweeper\src\minesweepergame.cpp
+	"MineSweeperGame.h"
+	<iostream>
+	<iomanip>
+
+1604215979 c:\users\hari\documents\codeblocks projects\games\minesweeper\include\minesweepergame.h
+	<MineSweeperCore.h>
+
